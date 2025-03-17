@@ -1,0 +1,20 @@
+@keyframes moveDotDown {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+        letter-spacing: 0;
+    }
+    75%, 100% {
+        transform: translateY(12px);
+        opacity: 0;
+        letter-spacing: 0;
+    }
+    100% {
+        letter-spacing: -0.2em;
+    }
+}
+
+h1 span {
+    display: inline-block;
+    animation: moveDotDown 1.5s ease-in-out forwards;
+}

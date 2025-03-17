@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="Fixed name issues. Fixed indenting issues.">
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="Updated meta data from default.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <workItem from="1741905462695" duration="3713000" />
       <workItem from="1741909226909" duration="5519000" />
       <workItem from="1741983797314" duration="19000" />
-      <workItem from="1742198728962" duration="5332000" />
+      <workItem from="1742198728962" duration="6536000" />
     </task>
     <task id="LOCAL-00001" summary="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow.">
       <option name="closed" value="true" />
@@ -148,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742206778893</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated meta data from default.">
+      <option name="closed" value="true" />
+      <created>1742207173358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742207173358</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +169,7 @@
     <MESSAGE value="AI Generated Workflow. Proofread. Should work." />
     <MESSAGE value="Made some changes, pushing to test results." />
     <MESSAGE value="Fixed name issues. Fixed indenting issues." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed name issues. Fixed indenting issues." />
+    <MESSAGE value="Updated meta data from default." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated meta data from default." />
   </component>
 </project>
