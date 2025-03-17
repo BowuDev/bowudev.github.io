@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="AI Generated Workflow. Proofread. Should work.">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="Fixed name issues. Fixed indenting issues.">
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <workItem from="1741905462695" duration="3713000" />
       <workItem from="1741909226909" duration="5519000" />
       <workItem from="1741983797314" duration="19000" />
-      <workItem from="1742198728962" duration="4825000" />
+      <workItem from="1742198728962" duration="5332000" />
     </task>
     <task id="LOCAL-00001" summary="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow.">
       <option name="closed" value="true" />
@@ -133,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742206299933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made some changes, pushing to test results.">
+      <option name="closed" value="true" />
+      <created>1742206681617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742206681617</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed name issues. Fixed indenting issues.">
+      <option name="closed" value="true" />
+      <created>1742206778892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742206778893</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +158,8 @@
     <MESSAGE value="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
     <MESSAGE value="Changes asset path to `/` from `./`" />
     <MESSAGE value="AI Generated Workflow. Proofread. Should work." />
-    <option name="LAST_COMMIT_MESSAGE" value="AI Generated Workflow. Proofread. Should work." />
+    <MESSAGE value="Made some changes, pushing to test results." />
+    <MESSAGE value="Fixed name issues. Fixed indenting issues." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed name issues. Fixed indenting issues." />
   </component>
 </project>
