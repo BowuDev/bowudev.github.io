@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="" />
+    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,11 +104,24 @@
       <workItem from="1741905462695" duration="3713000" />
       <workItem from="1741909226909" duration="5519000" />
       <workItem from="1741983797314" duration="19000" />
-      <workItem from="1742198728962" duration="3921000" />
+      <workItem from="1742198728962" duration="4225000" />
     </task>
+    <task id="LOCAL-00001" summary="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow.">
+      <option name="closed" value="true" />
+      <created>1742205963126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742205963126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
+    <option name="LAST_COMMIT_MESSAGE" value="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
   </component>
 </project>
