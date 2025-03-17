@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
+    <list default="true" id="39b006c8-0432-4f3f-808c-5401d9bc6fa3" name="Changes" comment="AI Generated Workflow. Proofread. Should work.">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +107,7 @@
       <workItem from="1741905462695" duration="3713000" />
       <workItem from="1741909226909" duration="5519000" />
       <workItem from="1741983797314" duration="19000" />
-      <workItem from="1742198728962" duration="4225000" />
+      <workItem from="1742198728962" duration="4825000" />
     </task>
     <task id="LOCAL-00001" summary="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow.">
       <option name="closed" value="true" />
@@ -114,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742205963126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes asset path to `/` from `./`">
+      <option name="closed" value="true" />
+      <created>1742206290680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742206290680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="AI Generated Workflow. Proofread. Should work.">
+      <option name="closed" value="true" />
+      <created>1742206299933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742206299933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
-    <option name="LAST_COMMIT_MESSAGE" value="Most basic version. UnoCSS Github Pages website. Next commit should be the deploy workflow." />
+    <MESSAGE value="Changes asset path to `/` from `./`" />
+    <MESSAGE value="AI Generated Workflow. Proofread. Should work." />
+    <option name="LAST_COMMIT_MESSAGE" value="AI Generated Workflow. Proofread. Should work." />
   </component>
 </project>
